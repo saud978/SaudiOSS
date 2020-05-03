@@ -96,94 +96,7 @@
             <td>منصة PHP لتطوير تطبيقات الويب</td>
         </tr>
         <tr>
-            <td rowspan="14">
-                <a href="https://github.com/cs4alhaider">عبدالله الحيدر</a>
-            </td>
-            <td>
-                <a href="https://github.com/cs4alhaider/Helper4Swift">Helper4Swift</a>
-            </td>
-            <td>Helpful extensions and methods to short your coding time</td>
-        </tr>
-        <tr>
-            <td>
-                <a href="https://github.com/cs4alhaider/Prims-algorithm">Prims-algorithm</a>
-            </td>
-            <td>تطبيق وشرح لخوارزمية Prims</td>
-        </tr>
-        <tr>
-            <td>
-                <a href="https://github.com/cs4alhaider/DhawaAlkhreej">ضوء الخريج</a>
-            </td>
-            <td>تطبيق iOS يساعد خريجين الثانوية باختيار تخصصهم الجامعي والتعرف على الجامعات ومعدلات القبول وحساب النسبة الموزونة</td>
-        </tr>
-      <tr>
-            <td>
-                <a href="https://github.com/cs4alhaider/Hackthon">Hajj-Hackthon</a>
-            </td>
-            <td>تطبيق لادارة الحجيج والزحام - مشاركة هاكثون الحج</td>
-        </tr>
-        <tr>
-            <td>
-                <a href="https://github.com/cs4alhaider/realm-with-Swift-codable">Realm DB with Swift Codable</a>
-            </td>
-            <td>Exercise on how to use realm with Swift codable and also how the sorts works in realm</td>
-        </tr>
-        <tr>
-            <td>
-                <a href="https://github.com/cs4alhaider/TextLanguageChecker">Text language checker</a>
-            </td>
-            <td>التحقق من لغة النص المدخل هل هي بالعربي او أي لغة اخرى</td>
-        </tr>
-        <tr>
-            <td>
-                <a href="https://github.com/cs4alhaider/WordMatching">WordMatching</a>
-            </td>
-            <td>تطبيق iOS يأخذ ملفين نصيين ويقوم بالبحث عن الكلمات المتطابقة بين الملفين وعددها ثم يقوم باصدار ملف جديد ويمكن ارسالة بالبريد الالكتروني</td>
-        </tr>
-      <tr>
-            <td>
-                <a href="https://github.com/cs4alhaider/HappyEid">HappyEid</a>
-            </td>
-            <td>تطبيق iOS يقوم بعمل انيميشن للتهنئة بالعيد</td>
-        </tr>
-      <tr>
-            <td>
-                <a href="https://github.com/cs4alhaider/DateDifference">DateDifference</a>
-            </td>
-            <td>C++ حساب الفرق بين تاريخين</td>
-        </tr>
-      <tr>
-            <td>
-                <a href="https://github.com/cs4alhaider/VideoPlayerObjc">VideoPlayerObjc</a>
-            </td>
-            <td>مشغل فيديو بلغة Objective-C</td>
-        </tr>
-      <tr>
-            <td>
-                <a href="https://github.com/cs4alhaider/VideoPlayerSwift">VideoPlayerSwift</a>
-            </td>
-            <td>مشغل فيديو بلغة Swift</td>
-        </tr>
-      <tr>
-            <td>
-                <a href="https://github.com/cs4alhaider/SwiftProject">SwiftProject</a>
-            </td>
-            <td>تجهيز لأي مشروع، ايضاً اقوم بمشاركة اي فكرة مع اي مطور اخر عن طريق هذا المشروع</td>
-        </tr>
-      <tr>
-            <td>
-                <a href="https://github.com/cs4alhaider/Flash-Chat">Flash-Chat</a>
-            </td>
-            <td>iOS app using real-time chatting via Firebase</td>
-        </tr>
-      <tr>
-            <td>
-                <a href="https://github.com/cs4alhaider/CustomAD">CustomAD</a>
-            </td>
-            <td>Show a custom ad inside your app</td>
-        </tr>
-        <tr>
-            <td rowspan="16">
+            <td rowspan="19">
                 <a href="https://github.com/alhazmy13">عبدالله الحازمي</a>
             </td>
             <td>
@@ -281,7 +194,112 @@
             </td>
             <td>Iban Validator (Swift, Kotlin, Java)</td>
         </tr>
+         <tr>
+            <td>
+                <a href="https://github.com/alhazmy13/aws-serverless-skeleton"> aws-serverless-skeleton </a>
+            </td>
+            <td>A Serverless skeleton project using Python </td>
+        </tr>
+             <tr>
+            <td>
+                <a href=""https://github.com/alhazmy13/Saudi-ID-Validator"> Saudi-ID-Validator </a>
+            </td>
+            <td>Saudi-ID-Validator (Swift, Kotlin, Java, Go, JS, Python, TypeScript, PHP, Scala, ruby, c#, vb, SQL)</td>
+        </tr>
+             <tr>
+            <td>
+                <a href=""https://github.com/alhazmy13/angular-csv-ext"> angular-csv-ext </a>
+            </td>
+            <td>Helper library for create CSV file in Angular</td>
+        </tr>
         <tr>
+            <td rowspan="14">
+                <a href="https://github.com/cs4alhaider">عبدالله الحيدر</a>
+            </td>
+            <td>
+                <a href="https://github.com/cs4alhaider/Helper4Swift">Helper4Swift</a>
+            </td>
+            <td>Helpful extensions and methods to short your coding time</td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/cs4alhaider/Prims-algorithm">Prims-algorithm</a>
+            </td>
+            <td>تطبيق وشرح لخوارزمية Prims</td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/cs4alhaider/DhawaAlkhreej">ضوء الخريج</a>
+            </td>
+            <td>تطبيق iOS يساعد خريجين الثانوية باختيار تخصصهم الجامعي والتعرف على الجامعات ومعدلات القبول وحساب النسبة الموزونة</td>
+        </tr>
+      <tr>
+            <td>
+                <a href="https://github.com/cs4alhaider/Hackthon">Hajj-Hackthon</a>
+            </td>
+            <td>تطبيق لادارة الحجيج والزحام - مشاركة هاكثون الحج</td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/cs4alhaider/realm-with-Swift-codable">Realm DB with Swift Codable</a>
+            </td>
+            <td>Exercise on how to use realm with Swift codable and also how the sorts works in realm</td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/cs4alhaider/TextLanguageChecker">Text language checker</a>
+            </td>
+            <td>التحقق من لغة النص المدخل هل هي بالعربي او أي لغة اخرى</td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/cs4alhaider/WordMatching">WordMatching</a>
+            </td>
+            <td>تطبيق iOS يأخذ ملفين نصيين ويقوم بالبحث عن الكلمات المتطابقة بين الملفين وعددها ثم يقوم باصدار ملف جديد ويمكن ارسالة بالبريد الالكتروني</td>
+        </tr>
+      <tr>
+            <td>
+                <a href="https://github.com/cs4alhaider/HappyEid">HappyEid</a>
+            </td>
+            <td>تطبيق iOS يقوم بعمل انيميشن للتهنئة بالعيد</td>
+        </tr>
+      <tr>
+            <td>
+                <a href="https://github.com/cs4alhaider/DateDifference">DateDifference</a>
+            </td>
+            <td>C++ حساب الفرق بين تاريخين</td>
+        </tr>
+      <tr>
+            <td>
+                <a href="https://github.com/cs4alhaider/VideoPlayerObjc">VideoPlayerObjc</a>
+            </td>
+            <td>مشغل فيديو بلغة Objective-C</td>
+        </tr>
+      <tr>
+            <td>
+                <a href="https://github.com/cs4alhaider/VideoPlayerSwift">VideoPlayerSwift</a>
+            </td>
+            <td>مشغل فيديو بلغة Swift</td>
+        </tr>
+      <tr>
+            <td>
+                <a href="https://github.com/cs4alhaider/SwiftProject">SwiftProject</a>
+            </td>
+            <td>تجهيز لأي مشروع، ايضاً اقوم بمشاركة اي فكرة مع اي مطور اخر عن طريق هذا المشروع</td>
+        </tr>
+      <tr>
+            <td>
+                <a href="https://github.com/cs4alhaider/Flash-Chat">Flash-Chat</a>
+            </td>
+            <td>iOS app using real-time chatting via Firebase</td>
+        </tr>
+      <tr>
+            <td>
+                <a href="https://github.com/cs4alhaider/CustomAD">CustomAD</a>
+            </td>
+            <td>Show a custom ad inside your app</td>
+        </tr>
+                <tr>
             <td rowspan="1">
                 <a href="https://github.com/ahmads">أحمد الشمري </a>
             </td>
@@ -425,11 +443,42 @@
         <tr>
             <td rowspan="1">
                 منى الرزقان
-                <br>خلود الغامدي
-                <br>روان المعثم
-                <br>
+            </td>
+            <td>
+                <a href="https://github.com/ArwaAlrazooq/Arabic-twitter-analysis">Arabic-twitter-analysis</a>
+            </td>
+            <td>هذا التطبيق سيساعدك في تحليل تغريدات تويتر باللغة العربية</td>
+        </tr>
+        <tr>
+            <td rowspan="1">
+               خلود الغامدي
+            </td>
+            <td>
+                <a href="https://github.com/ArwaAlrazooq/Arabic-twitter-analysis">Arabic-twitter-analysis</a>
+            </td>
+            <td>هذا التطبيق سيساعدك في تحليل تغريدات تويتر باللغة العربية</td>
+        </tr>
+        <tr>
+            <td rowspan="1">
+               روان المعثم
+            </td>
+            <td>
+                <a href="https://github.com/ArwaAlrazooq/Arabic-twitter-analysis">Arabic-twitter-analysis</a>
+            </td>
+            <td>هذا التطبيق سيساعدك في تحليل تغريدات تويتر باللغة العربية</td>
+        </tr>
+        <tr>
+            <td rowspan="1">
                 <a href="https://github.com/ArwaAlrazooq">أروى الرزوق</a>
-                <br>إيمان النخيلان
+            </td>
+            <td>
+                <a href="https://github.com/ArwaAlrazooq/Arabic-twitter-analysis">Arabic-twitter-analysis</a>
+            </td>
+            <td>هذا التطبيق سيساعدك في تحليل تغريدات تويتر باللغة العربية</td>
+        </tr>
+        <tr>
+            <td rowspan="1">
+               إيمان النخيلان
             </td>
             <td>
                 <a href="https://github.com/ArwaAlrazooq/Arabic-twitter-analysis">Arabic-twitter-analysis</a>
@@ -462,12 +511,12 @@
         </tr>
         <tr>
             <td rowspan="1">
-                <a href="https://github.com/abo3desa">أنس الحمود</a>
+                <a href="https://github.com/a-alhm">أنس الحمود</a>
             </td>
             <td>
-                <a href="https://github.com/abo3desa/quran-project-repo">quran-project</a>
+                <a href="https://github.com/a-alhm/Quran-Reading-Plan">quran-project</a>
             </td>
-            <td>&nbsp;</td>
+            <td>Quran Reading Plan is PWA (Progressive Web App) which can help you plan for your reading and get the most out of your time</td>
         </tr>
         <tr>
             <td rowspan="1">
@@ -555,7 +604,7 @@
         </tr>
         <tr>
                 <td rowspan="4">
-                    <a href="https://github.com/MoAlyousef/">محمد اليوسف</a>
+                    <a href="https://github.com/MoAlyousef">محمد اليوسف</a>
                 </td>
                 <td>
                     <a href="https://github.com/MoAlyousef/vcbld">vcbld</a>
@@ -735,7 +784,7 @@
             <td>Bootstrap 4 Hijri Date picker</td>
         </tr>
          <tr>
-            <td rowspan="2">
+            <td rowspan="4">
                 <a href="https://github.com/salsowelim">سليمان السويلم</a>
             </td>
             <td>
@@ -749,7 +798,111 @@
             </td>
             <td>c++ implementation of the algorithm suggested in dejavu audio fingerprinting project</td>
         </tr>
-    </table>
+         <tr>
+            <td>
+                <a href="https://github.com/salsowelim/tadween">تدوين</a>
+            </td>
+            <td> منصة مبسطة لنشر التدوينات. تدعم العربية بشكل كامل، وتستخدم محرر نصوص حديث</td>
+        </tr>
+          <tr>
+            <td>
+                <a href="https://github.com/salsowelim/odoo_hijri_datepicker">Odoo hijri datepicker</a>
+            </td>
+            <td>التقويم الهجري لنظام أودو نسخة ١١ hijri datepicker for odoo ERP v11</td>
+        </tr>
+                <tr>
+                <td rowspan="3"><a href="https://github.com/lamoboos223">لمى العصيمي</a></td>
+                <td>
+                    <a href="https://github.com/lamoboos223/web_scraping">Python - web scraping</a>
+                </td>
+                <td>This is a very basic web scraping app that will send email when episode of your show is out.</td>
+                <tr>
+                    <td>
+                        <a href="https://github.com/lamoboos223/facial-landmarks">Python - facial landmarks</a>
+                    </td>
+                    <td>This code is just a refernce for my personal further projects. all credits goes to pyimagesearch blog for the wonderful lesson.</td>
+                </tr>
+                <tr>
+                    <td>
+                        <a href="https://github.com/lamoboos223/whatsapp-direct-chat">Vue js - whatsapp direct char</a>
+                    </td>
+                    <td>A web app to directly chat with someone om whatsapp without saving their numbers</td>
+                </tr>
+        </tr>
+                <tr>
+                <td rowspan="5"><a href="https://github.com/usernane">إبراهيم الإبن الشيخ</a></td>
+                <td>
+                    <a href="https://github.com/usernane/webfiori">WebFiori Framework</a>
+                </td>
+                <td>إطار برمجة متكامل بالإمكان إستخدامه في تطوير تطبيقات الشبكة و المواقع الإلكترونية.</td>
+                <tr>
+                    <td>
+                        <a href="https://github.com/usernane/phMysql">phMySql</a>
+                    </td>
+                    <td>مكتبة تساعد على إنشاء MySQL Queries بشكل سهل و مبسط بإستخدام لغة PHP.</td>
+                </tr>
+                <tr>
+                    <td>
+                        <a href="https://github.com/usernane/jsonx">JsonX</a>
+                    </td>
+                    <td>مكتبة تساعد على إنشاء سلاسل Json النصية في لغة PHP.</td>
+                </tr>
+                <tr>
+                    <td>
+                        <a href="https://github.com/usernane/phpStructs">phpStructs</a>
+                    </td>
+                    <td>مكتبة تحوي على هياكل البيانات الأساسية مثل Linked List و Stack. بالإضافة, بالإمكان إستخدامها لإنشاء DOM الخاص بصفحات المواقع الإلكترونية.</td>
+                </tr>
+                <tr>
+                    <td>
+                        <a href="https://github.com/usernane/restEasy">restEasy</a>
+                    </td>
+                    <td>مكتبة تساعد على تطوير REST APIs بإستخدام لغة PHP.</td>
+                </tr>
+        </tr>
+        <tr>
+            <td rowspan="2">
+                <a href="https://github.com/usefksa">يوسف الرشيدي
+            </td>
+            <td>
+                <a href="https://github.com/usefksa/Saudi_GIS_Data">Saudi_GIS_Data</a>
+            </td>
+            <td>قائمة باسماء المدن و الاحياء السعودية مع معلومات حدود الاحياء الجغرافية.</td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/usefksa/engAraDictionaryFrom_ArabEyes">engAraDictionaryFrom_ArabEyes</a>
+            </td>
+    <td>قاعدة بيانات SQL للقاموس الانجليزي العربي المقدم من مجموعة عيون عربية.</td>
+        </tr>
+            <tr>
+                    <td rowspan="1">
+                        <a href="https://github.com/nuhamozaini">نُهى المزيني</a>
+                    </td>
+                    <td>
+                         <a href="https://github.com/nuhamozaini/Manateq">مناطق | Manateq</a>
+                    </td>
+                    <td>
+                         A Ruby gem to facilitate working with regions, cities and districts in Saudi Arabia
+                    </td>
+                </tr>
+        <tr>
+            <td rowspan="2">
+                <a href="https://github.com/mohammedhalosaimi">محمد العصيمي
+            </td>
+            <td>
+                <a href="https://github.com/mohammedhalosaimi/IoT-Application-Building-a-Smart-Library">IoT Smart Library Application</a>
+            </td>
+            <td>مكتبة ذكية تمكنك من تسجيل دخول واستعارة كتب. مزايا: استخدام الوجه لتسجيل الدخول, اضافة موعد ارجاع الكتب لـ Google Calendar, استخدام الصوت في طلب الكتب.</td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/mohammedhalosaimi/Riyadh-Coffee-Shops-Web-Scraping">Riyadh Coffee Shops Web Scraping</a>
+            </td>
+    <td>Riyadh Coffee shops Data obtained by a web scrapping.</td>
+        </tr>
+
+   </table>
     <h1>
     كيف أضيف مشروعي ؟
   </h1>
